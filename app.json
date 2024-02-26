@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "redux-Counter",
-    "slug": "redux-Counter",
+    "name": "crud-app-redux",
+    "slug": "crud-app-redux",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
