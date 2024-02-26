@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     bottom: 25,
     right: 25,
     padding: moderateScale(20),
-    borderRadius: 100,
+    borderRadius: moderateScale(100),
     padding: moderateScale(20),
     // zIndex: 1,
   },
